@@ -37,14 +37,6 @@
 
 旅游同业采购分销平台与 B2C 电商解决方案的核心功能模块开发与维护。
 
-## 开源项目
-
-| 项目 | 说明 |
-|---|---|
-| [security-fix-cookbook](https://github.com/XiaoxinHuang-Git/security-fix-cookbook) | 常见 Web 漏洞的错误写法与修复对照（PHP / Go / Node.js） |
-| [layui](https://github.com/XiaoxinHuang-Git/layui) | layui 定制版，面向后端开发者的快速界面方案 |
-| [colorpicker](https://github.com/XiaoxinHuang-Git/colorpicker) | 基于 farbtastic 的 jQuery 颜色选择器 |
-
 ## 当前关注
 
 私有化交付工程化 · 安全合规与漏洞治理 · 多语言代码仓库治理 · 高并发系统性能优化
