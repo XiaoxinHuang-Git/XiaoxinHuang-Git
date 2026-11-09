@@ -2,6 +2,13 @@
 
 10 年+ Web 系统研发经验，专注 **PHP / Go / Node.js** 后端开发与系统架构设计。
 
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoxinHuang-Git&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoxinHuang-Git&layout=compact&hide_border=true&theme=default)
+
+</div>
+
 ## 关于我
 
 - 长期负责 Web 系统、管理后台、商城与企业级应用的架构设计与研发
@@ -10,6 +17,19 @@
 - 注重工程规范：接口设计、CI/CD 流程、代码质量与线上问题定位
 
 ## 技术栈
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+</p>
 
 | 分类 | 内容 |
 |---|---|
@@ -41,7 +61,18 @@
 
 私有化交付工程化 · 安全合规与漏洞治理 · 多语言代码仓库治理 · 高并发系统性能优化
 
+## 📂 开源仓库
+
+| 仓库 | 说明 |
+|---|---|
+| [security-fix-cookbook](https://github.com/XiaoxinHuang-Git/security-fix-cookbook) | Web 安全漏洞错误写法 → 正确写法速查表（PHP / Go / Node.js） |
+| [checksum-tool](https://github.com/XiaoxinHuang-Git/checksum-tool) | Go 单文件二进制，交付物 SHA256 清单生成与校验工具 |
+| [notes](https://github.com/XiaoxinHuang-Git/notes) | 后端技术笔记：PDO、Nginx、MySQL、Redis 踩坑记录 |
+
 ## 联系我
 
-- Email：271734075@qq.com
-- Blog：https://huangxiaoxin.blog.csdn.net/
+<p align="center">
+  <a href="mailto:271734075@qq.com"><img src="https://img.shields.io/badge/Email-271734075%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://huangxiaoxin.blog.csdn.net/"><img src="https://img.shields.io/badge/Blog-CSDN-F5A623?style=for-the-badge&logo=blogger&logoColor=white"/></a>
+  <a href="https://github.com/XiaoxinHuang-Git"><img src="https://img.shields.io/badge/GitHub-XiaoxinHuang--Git-181717?style=for-the-badge&logo=github"/></a>
+</p>
