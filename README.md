@@ -1,20 +1,32 @@
 # 黄小鑫 · Backend Engineer
 
-10 年+ Web 系统研发经验，专注 **PHP / Go / Node.js** 后端开发与系统架构设计。
+> 10 年+ Web 系统研发 | PHP / Go / Node.js | 高并发架构 · 私有化部署 · 安全整改
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoxinHuang-Git&show_icons=true&theme=default&hide_border=true)
+**⬇️ 正在做的事**
+
+🔒 编写安全漏洞修复速查手册 — [security-fix-cookbook](https://github.com/XiaoxinHuang-Git/security-fix-cookbook) 已发布 12 个 OWASP Top 10 漏洞类型
+
+🛠️ 交付物校验工具 — [checksum-tool](https://github.com/XiaoxinHuang-Git/checksum-tool) Go 单文件二进制，无外部依赖
+
+📝 技术笔记归档 — [notes](https://github.com/XiaoxinHuang-Git/notes) 踩坑记录按月归档，结论优先
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoxinHuang-Git&show_icons=true&theme=default&hide_border=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoxinHuang-Git&layout=compact&hide_border=true&theme=default)
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=XiaoxinHuang-Git&theme=default&hide_border=true)
 
 </div>
 
 ## 关于我
 
-- 长期负责 Web 系统、管理后台、商城与企业级应用的架构设计与研发
-- 擅长从 0 到 1 搭建业务系统，主导高并发场景下的数据库设计与缓存优化
-- 近年专注私有化项目交付：离线部署、部署位核对、安全漏洞整改与交付物完整性校验
-- 注重工程规范：接口设计、CI/CD 流程、代码质量与线上问题定位
+- 🏗️ 长期负责 Web 系统、管理后台、商城与企业级应用的架构设计与研发
+- 🚀 擅长从 0 到 1 搭建业务系统，主导高并发场景下的数据库设计与缓存优化
+- 🔐 近年专注私有化项目交付：离线部署、部署位核对、安全漏洞整改与交付物完整性校验
+- ⚙️ 注重工程规范：接口设计、CI/CD 流程、代码质量与线上问题定位
 
 ## 技术栈
 
@@ -33,11 +45,11 @@
 
 | 分类 | 内容 |
 |---|---|
-| 语言 | PHP、Go、Node.js、TypeScript |
-| 框架 | ThinkPHP、CodeIgniter、Express、Vue2 |
-| 存储 | MySQL（索引优化、SQL 调优、事务与锁）、Redis（缓存、分布式锁、限流） |
-| 部署 | Linux、Nginx、Docker、阿里云 ECS/RDS/OSS/SLB、CI/CD |
-| 方向 | RESTful 接口设计、私有化部署、安全整改 |
+| **语言** | PHP、Go、Node.js、TypeScript |
+| **框架** | ThinkPHP、CodeIgniter、Express、Vue2 |
+| **存储** | MySQL（索引优化、SQL 调优、事务与锁）、Redis（缓存、分布式锁、限流） |
+| **部署** | Linux、Nginx、Docker、阿里云 ECS/RDS/OSS/SLB、CI/CD |
+| **方向** | RESTful 接口设计、私有化部署、安全整改 |
 
 ## 工作经历
 
@@ -59,15 +71,18 @@
 
 ## 当前关注
 
-私有化交付工程化 · 安全合规与漏洞治理 · 多语言代码仓库治理 · 高并发系统性能优化
+- 🔒 私有化交付工程化与交付安全
+- 🛡️ 安全合规与漏洞治理自动化
+- 📦 多语言代码仓库治理（monorepo → 多 repo 拆分）
+- ⚡ 高并发系统性能优化（MySQL / Redis / 缓存策略）
 
 ## 📂 开源仓库
 
-| 仓库 | 说明 |
-|---|---|
-| [security-fix-cookbook](https://github.com/XiaoxinHuang-Git/security-fix-cookbook) | Web 安全漏洞错误写法 → 正确写法速查表（PHP / Go / Node.js） |
-| [checksum-tool](https://github.com/XiaoxinHuang-Git/checksum-tool) | Go 单文件二进制，交付物 SHA256 清单生成与校验工具 |
-| [notes](https://github.com/XiaoxinHuang-Git/notes) | 后端技术笔记：PDO、Nginx、MySQL、Redis 踩坑记录 |
+| 仓库 | 说明 | 状态 |
+|---|---|---|
+| [security-fix-cookbook](https://github.com/XiaoxinHuang-Git/security-fix-cookbook) | Web 安全漏洞「错误写法 → 正确写法」对照手册 | ✅ 12 篇文档 |
+| [checksum-tool](https://github.com/XiaoxinHuang-Git/checksum-tool) | Go 单文件二进制，交付物 SHA256 清单生成与校验 | ✅ v1.0 |
+| [notes](https://github.com/XiaoxinHuang-Git/notes) | 后端技术笔记：踩坑记录按月归档 | 📝 持续更新 |
 
 ## 联系我
 
@@ -76,3 +91,8 @@
   <a href="https://huangxiaoxin.blog.csdn.net/"><img src="https://img.shields.io/badge/Blog-CSDN-F5A623?style=for-the-badge&logo=blogger&logoColor=white"/></a>
   <a href="https://github.com/XiaoxinHuang-Git"><img src="https://img.shields.io/badge/GitHub-XiaoxinHuang--Git-181717?style=for-the-badge&logo=github"/></a>
 </p>
+
+<!--
+  Profile README 更新时间：2026-11-10
+  主要增强：添加 Contribution Graph、当前动态板块、开源仓库状态
+-->
