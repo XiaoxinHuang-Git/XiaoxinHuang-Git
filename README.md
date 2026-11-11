@@ -6,7 +6,7 @@
 
 **⬇️ 正在做的事**
 
-🔒 编写安全漏洞修复速查手册 — [security-fix-cookbook](https://github.com/XiaoxinHuang-Git/security-fix-cookbook) 已发布 12 个 OWASP Top 10 漏洞类型
+🔒 编写安全漏洞修复速查手册 — [security-fix-cookbook](https://github.com/XiaoxinHuang-Git/security-fix-cookbook) 已发布 13 个 OWASP Top 10 漏洞类型（A01–A10 全覆盖）
 
 🛠️ 交付物校验工具 — [checksum-tool](https://github.com/XiaoxinHuang-Git/checksum-tool) Go 单文件二进制，无外部依赖
 
@@ -17,7 +17,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoxinHuang-Git&show_icons=true&theme=default&hide_border=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoxinHuang-Git&layout=compact&hide_border=true&theme=default)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=XiaoxinHuang-Git&theme=default&hide_border=true)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=XiaoxinHuang-Git&hide_border=true&theme=default)
 
 </div>
 
@@ -78,11 +78,20 @@
 
 ## 📂 开源仓库
 
+<p align="center">
+<a href="https://github.com/XiaoxinHuang-Git/security-fix-cookbook">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoxinHuang-Git&repo=security-fix-cookbook&hide_border=true&theme=default" alt="security-fix-cookbook" />
+</a>
+<a href="https://github.com/XiaoxinHuang-Git/checksum-tool">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=XiaoxinHuang-Git&repo=checksum-tool&hide_border=true&theme=default" alt="checksum-tool" />
+</a>
+</p>
+
 | 仓库 | 说明 | 状态 |
 |---|---|---|
-| [security-fix-cookbook](https://github.com/XiaoxinHuang-Git/security-fix-cookbook) | Web 安全漏洞「错误写法 → 正确写法」对照手册 | ✅ 12 篇文档 |
-| [checksum-tool](https://github.com/XiaoxinHuang-Git/checksum-tool) | Go 单文件二进制，交付物 SHA256 清单生成与校验 | ✅ v1.0 |
-| [notes](https://github.com/XiaoxinHuang-Git/notes) | 后端技术笔记：踩坑记录按月归档 | 📝 持续更新 |
+| [security-fix-cookbook](https://github.com/XiaoxinHuang-Git/security-fix-cookbook) | Web 安全漏洞「错误写法 → 正确写法」对照手册，OWASP A01–A10 全覆盖 | ✅ **13 篇文档** |
+| [checksum-tool](https://github.com/XiaoxinHuang-Git/checksum-tool) | Go 单文件二进制，交付物 SHA256 清单生成与校验，支持增量对比 | ✅ v1.0 已发布 |
+| [notes](https://github.com/XiaoxinHuang-Git/notes) | 后端技术笔记：PDO / Nginx / MySQL / Redis / Go 踩坑记录按月归档 | 📝 持续更新 |
 
 ## 联系我
 
@@ -93,6 +102,6 @@
 </p>
 
 <!--
-  Profile README 更新时间：2026-11-10
-  主要增强：添加 Contribution Graph、当前动态板块、开源仓库状态
+  Profile README 更新时间：2026-11-11
+  主要增强：更新 security-fix-cookbook 至 13 篇、添加 pin 卡片展示、替换已废弃的 activity-graph.herokuapp.com 为 streak-stats
 -->
