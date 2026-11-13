@@ -41,6 +41,8 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 | 分类 | 内容 |
@@ -50,6 +52,7 @@
 | **存储** | MySQL（索引优化、SQL 调优、事务与锁）、Redis（缓存、分布式锁、限流） |
 | **部署** | Linux、Nginx、Docker、阿里云 ECS/RDS/OSS/SLB、CI/CD |
 | **方向** | RESTful 接口设计、私有化部署、安全整改 |
+| **工具** | Git、Composer、npm、GitHub Actions、Grafana |
 
 ## 工作经历
 
@@ -87,11 +90,30 @@
 </a>
 </p>
 
+### 主要项目
+
 | 仓库 | 说明 | 状态 |
 |---|---|---|
 | [security-fix-cookbook](https://github.com/XiaoxinHuang-Git/security-fix-cookbook) | Web 安全漏洞「错误写法 → 正确写法」对照手册，OWASP A01–A10 全覆盖 | ✅ **13 篇文档** |
 | [checksum-tool](https://github.com/XiaoxinHuang-Git/checksum-tool) | Go 单文件二进制，交付物 SHA256 清单生成与校验，支持增量对比 | ✅ v1.0 已发布 |
 | [notes](https://github.com/XiaoxinHuang-Git/notes) | 后端技术笔记：PDO / Nginx / MySQL / Redis / Go 踩坑记录按月归档 | 📝 持续更新 |
+
+### 早期作品
+
+| 仓库 | 说明 | 技术 |
+|---|---|---|
+| [layui](https://github.com/XiaoxinHuang-Git/layui) | Layui UI 框架的后台管理界面实践 | HTML / CSS / JS |
+| [colorpicker](https://github.com/XiaoxinHuang-Git/colorpicker) | jQuery 颜色选择器插件，支持调色板与颜色转换 | JavaScript / jQuery |
+
+## 📊 近期贡献
+
+<div align="center">
+
+![security-fix-cookbook](https://img.shields.io/github/commit-activity/m/XiaoxinHuang-Git/security-fix-cookbook?style=flat-square&label=security-fix-cookbook&color=777BB4)
+![checksum-tool](https://img.shields.io/github/commit-activity/m/XiaoxinHuang-Git/checksum-tool?style=flat-square&label=checksum-tool&color=00ADD8)
+![notes](https://img.shields.io/github/commit-activity/m/XiaoxinHuang-Git/notes?style=flat-square&label=notes&color=FCC624)
+
+</div>
 
 ## 联系我
 
@@ -101,7 +123,12 @@
   <a href="https://github.com/XiaoxinHuang-Git"><img src="https://img.shields.io/badge/GitHub-XiaoxinHuang--Git-181717?style=for-the-badge&logo=github"/></a>
 </p>
 
-<!--
-  Profile README 更新时间：2026-11-11
-  主要增强：更新 security-fix-cookbook 至 13 篇、添加 pin 卡片展示、替换已废弃的 activity-graph.herokuapp.com 为 streak-stats
--->
+---
+
+<div align="center">
+
+**保持学习，持续输出** 💪
+
+*Profile 更新时间：2026-11-13*
+
+</div>
