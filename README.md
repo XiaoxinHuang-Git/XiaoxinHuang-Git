@@ -6,11 +6,11 @@
 
 **⬇️ 正在做的事**
 
-🔒 编写安全漏洞修复速查手册 — [security-fix-cookbook](https://github.com/XiaoxinHuang-Git/security-fix-cookbook) 已发布 13 个 OWASP Top 10 漏洞类型（A01–A10 全覆盖）
+🔒 编写安全漏洞修复速查手册 — [security-fix-cookbook](https://github.com/XiaoxinHuang-Git/security-fix-cookbook) 已发布 **16 个 OWASP Top 10 漏洞类型**（A01–A10 全覆盖 + 文件上传 / 弱密码 / 依赖组件漏洞）
 
-🛠️ 交付物校验工具 — [checksum-tool](https://github.com/XiaoxinHuang-Git/checksum-tool) Go 单文件二进制，无外部依赖
+🛠️ 交付物校验工具 — [checksum-tool](https://github.com/XiaoxinHuang-Git/checksum-tool) Go 单文件二进制，无外部依赖，含完整单元测试
 
-📝 技术笔记归档 — [notes](https://github.com/XiaoxinHuang-Git/notes) 踩坑记录按月归档，结论优先
+📝 技术笔记归档 — [notes](https://github.com/XiaoxinHuang-Git/notes) 踩坑记录按月归档，**已积累 18 条后端实战笔记**（Nginx / MySQL / Redis / Go / 缓存 / JWT / 限流 / Docker）
 
 ---
 
@@ -75,9 +75,9 @@
 ## 当前关注
 
 - 🔒 私有化交付工程化与交付安全
-- 🛡️ 安全合规与漏洞治理自动化
+- 🛡️ 安全合规与漏洞治理自动化（OWASP Top 10 → 速查手册）
 - 📦 多语言代码仓库治理（monorepo → 多 repo 拆分）
-- ⚡ 高并发系统性能优化（MySQL / Redis / 缓存策略）
+- ⚡ 高并发系统性能优化（MySQL / Redis / 缓存策略 / 限流）
 
 ## 📂 开源仓库
 
@@ -94,9 +94,9 @@
 
 | 仓库 | 说明 | 状态 |
 |---|---|---|
-| [security-fix-cookbook](https://github.com/XiaoxinHuang-Git/security-fix-cookbook) | Web 安全漏洞「错误写法 → 正确写法」对照手册，OWASP A01–A10 全覆盖 | ✅ **13 篇文档** |
-| [checksum-tool](https://github.com/XiaoxinHuang-Git/checksum-tool) | Go 单文件二进制，交付物 SHA256 清单生成与校验，支持增量对比 | ✅ v1.0 已发布 |
-| [notes](https://github.com/XiaoxinHuang-Git/notes) | 后端技术笔记：PDO / Nginx / MySQL / Redis / Go 踩坑记录按月归档 | 📝 持续更新 |
+| [security-fix-cookbook](https://github.com/XiaoxinHuang-Git/security-fix-cookbook) | Web 安全漏洞「错误写法 → 正确写法」对照手册，OWASP A01–A10 全覆盖 + 文件上传 / 弱密码 / 依赖组件 | ✅ **16 篇文档** |
+| [checksum-tool](https://github.com/XiaoxinHuang-Git/checksum-tool) | Go 单文件二进制，交付物 SHA256 清单生成与校验，含单元测试与 CI | ✅ v1.0 已发布 |
+| [notes](https://github.com/XiaoxinHuang-Git/notes) | 后端技术笔记：PDO / Nginx / MySQL / Redis / Go / 缓存 / JWT / 限流 按月归档 | 📝 **18 条实战笔记** |
 
 ### 早期作品
 
@@ -129,6 +129,6 @@
 
 **保持学习，持续输出** 💪
 
-*Profile 更新时间：2026-11-13*
+*Profile 更新时间：2026-11-16*
 
 </div>
